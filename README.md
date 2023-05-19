@@ -1,1 +1,3 @@
-# AyED
+# ALGORITMO Y ESTRUCTURA DE DATOS
+Tiago Pereyra 
+K1123
